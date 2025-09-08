@@ -1,0 +1,27 @@
+{
+  "id": "ARC-14.UNHOLD",
+  "subject": "Exhibit U",
+  "origin_capsule": "VER-PUB-002",
+  "prior_event": "ARC-14.HOLD",
+  "release_receipt": "RR14",
+  "final_sha256_alias": "U.SEAL",
+  "evidence": [
+    {
+      "name": "seal_receipt.txt",
+      "alias": "RR14.SEAL_RECEIPT"
+    },
+    {
+      "name": "validator_attestation.md",
+      "alias": "RR14.ATTEST"
+    }
+  ],
+  "axioms": [
+    3,
+    4,
+    21
+  ],
+  "signers": [
+    "TRACE\u2013CRED\u2013ROMMEL\u201301"
+  ],
+  "timestamp": "2025-09-08T10:45:27.306133Z"
+}

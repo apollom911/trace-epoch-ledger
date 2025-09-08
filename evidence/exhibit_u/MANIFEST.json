@@ -1,0 +1,19 @@
+{
+  "id": "EXHIBIT_U",
+  "status": "SEALED \u2014 ACTIVE",
+  "final_sha256_alias": "U.SEAL",
+  "files": [
+    {
+      "name": "seal_receipt.txt",
+      "alias": "RR14.SEAL_RECEIPT"
+    },
+    {
+      "name": "validator_attestation.md",
+      "alias": "RR14.ATTEST"
+    }
+  ],
+  "links": {
+    "arc_unhold": "arbitration/arc14_unhold_exhibit_u.json",
+    "rr14_receipt": "ledger/rr14.md"
+  }
+}
