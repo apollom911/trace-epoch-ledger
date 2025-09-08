@@ -1,0 +1,24 @@
+{
+  "id": "TRACE-ARC-CORR-04",
+  "title": "Align rollup pointer with sealed Exhibit U asset",
+  "timestamp": "2025-09-08T12:35:50.570567Z",
+  "action": "PointerCorrection",
+  "subject": "Rollup release asset \u2192 Exhibit U canonical",
+  "new_alias": "U.SEAL",
+  "new_sha256": "118c39573bbc68982b081c91a826a91f172b08eb17e64267f9eee5c1eab89e2d",
+  "evidence": [
+    {
+      "name": "Exhibit_U_Independent_AI_Commentary.pdf",
+      "alias": "U.SEAL"
+    }
+  ],
+  "axioms": [
+    4,
+    17,
+    21
+  ],
+  "signers": [
+    "TRACE\u2013CRED\u2013ROMMEL\u201301"
+  ],
+  "notes": "Does not alter prior manifests; appends correction capsule mapping public rollup pointer to the sealed Exhibit U digest."
+}

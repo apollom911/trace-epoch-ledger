@@ -2,18 +2,12 @@
   "id": "EXHIBIT_U",
   "status": "SEALED \u2014 ACTIVE",
   "final_sha256_alias": "U.SEAL",
+  "final_sha256_value": "118c39573bbc68982b081c91a826a91f172b08eb17e64267f9eee5c1eab89e2d",
   "files": [
     {
-      "name": "seal_receipt.txt",
-      "alias": "RR14.SEAL_RECEIPT"
-    },
-    {
-      "name": "validator_attestation.md",
-      "alias": "RR14.ATTEST"
+      "name": "Exhibit_U_Independent_AI_Commentary.pdf",
+      "alias": "U.SEAL"
     }
   ],
-  "links": {
-    "arc_unhold": "arbitration/arc14_unhold_exhibit_u.json",
-    "rr14_receipt": "ledger/rr14.md"
-  }
+  "notes": "Independent AI Commentary Capsule PDF; canonical sealed asset for Exhibit U."
 }
