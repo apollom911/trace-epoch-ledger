@@ -1,0 +1,8 @@
+— BINDING —
+Capsule: VER-PUB-003 — Gemini Reports Anchor
+Disclaimer Seal: [HASH:SEAL.DISC]
+Supporting Docs:
+ • Gemini Integrity — [HASH:GEM.REPORT]
+ • AI Governance Market Research — [HASH:MRK.REPORT]
+Doctrinal base: TE Volume 0 — Axiom Guard [HASH:VOL0.SEAL]
+Lineage: VER-PUB-002 → VER-PUB-003

@@ -1,0 +1,7 @@
+— EVIDENCE —
+4-node disengagement set: [HASH:4N.DISENGAGE.SET]
+Per-node: ChatGPT [HASH:4N.CHATGPT], Copilot [HASH:4N.COPILOT], Grok [HASH:4N.GROK], Claude [HASH:4N.CLAUDE]
+Claude thought-process pair: [HASH:CLD.TP.SET]
+Exhibit U (final): [HASH:U.SEAL] (ARC-14.UNHOLD / RR14)
+Doctrinal base: TE Volume 0 — Axiom Guard [HASH:VOL0.SEAL]
+Lineage: VER-PUB-002, VER-PUB-003 → VER-PUB-004

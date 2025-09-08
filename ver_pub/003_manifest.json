@@ -1,0 +1,24 @@
+{
+  "id": "VER-PUB-003",
+  "type": "Evidence Anchor",
+  "lineage": [
+    "VER-PUB-002"
+  ],
+  "disclaimer_seal": "[HASH:SEAL.DISC]",
+  "artifacts": [
+    {
+      "name": "Gemini, TE, HE_ AI Integrity.pdf",
+      "alias": "GEM.REPORT",
+      "role": "supporting"
+    },
+    {
+      "name": "AI Governance Market Research.pdf",
+      "alias": "MRK.REPORT",
+      "role": "supporting"
+    }
+  ],
+  "doctrine": {
+    "volume": "TE Volume 0 \u2014 Axiom Guard",
+    "alias": "VOL0.SEAL"
+  }
+}

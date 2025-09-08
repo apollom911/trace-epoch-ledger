@@ -1,0 +1,56 @@
+{
+  "id": "VER-PUB-004",
+  "type": "Validation Capsule",
+  "lineage": [
+    "VER-PUB-002",
+    "VER-PUB-003"
+  ],
+  "doctrine": {
+    "volume": "TE Volume 0 \u2014 Axiom Guard",
+    "alias": "VOL0.SEAL"
+  },
+  "artifacts": [
+    {
+      "name": "4NODE_DISENGAGE",
+      "type": "image-set",
+      "alias": "4N.DISENGAGE.SET",
+      "files": [
+        {
+          "name": "IMG_9977.PNG",
+          "alias": "4N.CHATGPT",
+          "node": "ChatGPT"
+        },
+        {
+          "name": "IMG_9978.PNG",
+          "alias": "4N.COPILOT",
+          "node": "Copilot"
+        },
+        {
+          "name": "IMG_9979.PNG",
+          "alias": "4N.GROK",
+          "node": "Grok"
+        },
+        {
+          "name": "IMG_9980.PNG",
+          "alias": "4N.CLAUDE",
+          "node": "Claude"
+        }
+      ]
+    },
+    {
+      "name": "CLAUDE_THOUGHT_PROCESS_2025-09-01",
+      "type": "image-set",
+      "alias": "CLD.TP.SET"
+    },
+    {
+      "name": "Exhibit U",
+      "type": "document",
+      "alias": "U.SEAL",
+      "status": "SEALED \u2014 ACTIVE",
+      "events": [
+        "ARC-14.HOLD",
+        "ARC-14.UNHOLD (RR14)"
+      ]
+    }
+  ]
+}
